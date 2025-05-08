@@ -1,8 +1,8 @@
-## Hi, my name is Guilherme Guedes.
+## Hi, my name is Davi Arakaki.
 
 <p><b>👨‍💻 Student of ADS | Germinare Tech<br></b>
 
-<p>My main languages are <b>Python and Java</b>, but I'm always exploring something new.</p>
+<p>My main languages are <b>SQL and Java</b>, but I'm always exploring something new.</p>
 
 ##
 
