@@ -1,14 +1,9 @@
-<h1 align="center"> 👋 Olá, eu sou Davi Arakaki </h1>
-<h3 align="center">Estudante de ADS | Explorando o Universo de Dados e Back-end</h3>
+<h1 align="center"> 👋 Prazer! Eu sou Davi Arakaki </h1>
+<h3 align="center">Estudante de ADS | 2/3 no <strong>Instituto J&F</strong></h3>
 
 <br>
-
 <p align="center">
-  <b>👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas no Germinare Tech</b>
-</p>
-
-<p align="center">
-  Bem-vindo ao meu cantinho no GitHub! 🚀 Aqui você encontrará projetos, estudos e experimentos que refletem minha paixão por tecnologia e minha jornada de aprendizado contínuo. Minhas principais áreas de interesse são o <b>back-end</b> e a <b>engenharia/análise de dados</b>, com um forte foco na criação de soluções eficientes e bem estruturadas.
+  Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos, estudos e experimentos que refletem minha paixão por tecnologia e minha jornada de aprendizado contínuo. Minhas principais áreas de interesse são o <b>back-end</b> e a <b>engenharia/análise de dados</b>, com um forte foco na criação de soluções eficientes e bem estruturadas.
 </p>
 
 <p align="center">
@@ -31,9 +26,9 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
 
   <!-- Bancos de Dados -->
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL (MySQL)">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
   <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server">
-  <img align="center" alt="NoSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="NoSQL (MongoDB)">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
 
   <!-- Ferramentas de Data Science e Análise -->
   <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy">
@@ -69,14 +64,17 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ## 📫 Como me encontrar?
 
-<div> 
-  <a href="https://instagram.com/arakuiks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:davi.souza@germinare.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="davi.souza@germinare.org"></a>
-  <!-- Se tiver LinkedIn, pode adicionar aqui -->
-  <!-- <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+<div align="center"> 
+  <a href="https://instagram.com/dvarakaki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:davi.souza@germinare.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="davi.souza@institutojef.org.br"></a>
+  <a href="https://www.linkedin.com/in/davi-arakaki-a15765235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dvarakaki.dvarakaki" alt="Visitors">
+</p>
 
 <p align="center">
   <i>"A melhor maneira de prever o futuro é criá-lo." - Alan Kay</i>
