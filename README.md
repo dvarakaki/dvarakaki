@@ -46,12 +46,9 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/dvarakaki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvarakaki&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarakaki&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvarakaki&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarakaki&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
 </div>
-
 <br>
 
 ## 🌱 O que estou aprendendo agora?
