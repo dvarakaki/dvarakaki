@@ -1,3 +1,4 @@
+[README (3).md](https://github.com/user-attachments/files/32751831/README.3.md)
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Davi%20Arakaki&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Engenharia%20de%20Dados&descAlignY=58&descSize=18" width="100%"/>
 
@@ -61,12 +62,76 @@
   <img width="46%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 <p align="center">
+  <img width="46%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img width="46%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=dvarakaki&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-### 🐍 Cobrinha das contribuições
+### 🧊 [A] Contribuições em 3D
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-3d-contrib/profile-gitblue.svg" />
+  </picture>
+</p>
+
+### 👾 [B] Pac-Man
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/extras/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/extras/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+### 🧱 [C] Breakout
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/extras/breakout-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/extras/breakout-contribution-graph.svg" />
+  </picture>
+</p>
+
+### 🐍 [D] Snake com IA (cresce ao comer)
+
+<p align="center"><img src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/extras/snake-ai.svg" /></p>
+
+### 🌌 [E] Contribuições com gravidade
+
+<p align="center"><img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/extras/gravity.svg" /></p>
+
+### 🐱 [F] Gatinho que reage à sua atividade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/dist/pet.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/dist/pet-light.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/dist/pet.svg" />
+  </picture>
+</p>
+
+### 🏙️ [G] Cidade isométrica do gatinho
+
+<p align="center"><img width="80%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/dist/isocat.svg" /></p>
+
+### 🌳 [H] Bonsai que cresce com commits
+
+<p align="center"><img width="300" src="output/bonsai-growth.gif" /></p>
+
+### ⚡ [I] Atividade recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🐍 [J] Cobrinha clássica
 
 <p align="center">
   <picture>
