@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/32751831/README.3.md)
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Davi%20Arakaki&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Engenharia%20de%20Dados&descAlignY=58&descSize=18" width="100%"/>
 
@@ -76,7 +75,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-3d-contrib/profile-gitblue.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-3d-contrib/profile-night-view.svg" />
   </picture>
 </p>
 
