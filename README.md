@@ -54,17 +54,14 @@
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvarakaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarakaki&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img width="46%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="46%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dvarakaki&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvarakaki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dvarakaki&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
