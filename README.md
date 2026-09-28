@@ -1,91 +1,88 @@
-<h3 align="center">Estudante de ADS | 2/3 no <strong>Instituto J&F</strong></h3>
-
-<br>
-
-<p align="center">
-Bem-vindo ao meu perfil no GitHub! 🚀 Aqui você encontrará projetos, estudos e experimentos que refletem minha paixão por tecnologia e minha jornada de aprendizado contínuo. Minhas principais áreas de interesse são o <b>back-end</b> e a <b>engenharia/análise de dados</b>, com um forte foco na criação de soluções eficientes e bem estruturadas.
-</p>
-@@ -14,29 +15,27 @@
-
-## 🛠️ Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias com as quais trabalho e estudo:
-
-<div style="display: inline_block"><br>
-
-<div align="center">
-  
-<!-- Linguagens de Programação e Marcação -->
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
-
-<!-- Bancos de Dados -->
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB">
-
-<!-- Ferramentas de Data Science e Análise -->
-  <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
-  <img align="center" alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy">
-  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas">
-
-<!-- Sistemas Operacionais e Design -->
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma">
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux">
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma">
-
-</div>
-
-@@ -49,13 +48,14 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvarakaki&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarakaki&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br>
-
-## 🌱 O que estou aprendendo agora?
-
-- Aprofundando meus conhecimentos em **Java** com foco em boas práticas e design patterns.
-- Explorando modelagem e otimização de consultas em **SQL**.
-- Iniciando meus estudos em bancos de dados **NoSQL** (especialmente MongoDB).
-- 🔥 Aprofundando meus conhecimentos em **Java** com foco em boas práticas e design patterns
-- 📊 Explorando modelagem e otimização de consultas em **SQL**
-- 🍃 Iniciando meus estudos em bancos de dados **NoSQL** (especialmente MongoDB)
-
-<br>
-
-@@ -70,11 +70,19 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
-<br>
+<!-- Header animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Davi%20Arakaki&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%E2%80%A2%20Engenharia%20de%20Dados&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dvarakaki.dvarakaki" alt="Visitors">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dvarakaki.dvarakaki" alt="visitantes">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi+%F0%9F%91%8B;Estudante+de+ADS+%7C+Instituto+J%26F;Apaixonado+por+Back-end+%E2%98%95;Explorando+Engenharia+de+Dados+%F0%9F%93%8A" alt="Typing SVG" />
+  </a>
 </p>
-
-<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvarakaki&theme=react-dark&bg_color=0d1117&hide_border=true" width="90%">
+  <img src="https://komarev.com/ghpvc/?username=dvarakaki&label=Visitas&color=1f6feb&style=flat-square" alt="visitas" />
+  <img src="https://img.shields.io/github/followers/dvarakaki?label=Seguidores&style=flat-square&color=8957e5" alt="seguidores" />
 </p>
 
-<br>
+---
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding/coding.gif" alt="coding" />
+
+### 🧑‍💻 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **Instituto J&F** (2/3)
+- ⚙️ Foco em **back-end** e **engenharia/análise de dados**
+- 🧱 Gosto de soluções eficientes, limpas e bem estruturadas
+- 🌱 Aprendendo agora:
+  - ☕ **Java** — boas práticas e design patterns
+  - 📊 **SQL** — modelagem e otimização de consultas
+  - 🍃 **NoSQL** — MongoDB
+- 💬 Pode me chamar para trocar ideia sobre código, dados ou café
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Stack
 
 <p align="center">
-<i>"A melhor maneira de prever o futuro é criá-lo." - Alan Kay</i>
+  <b>Linguagens</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+<p align="center">
+  <b>Bancos de dados</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" />
+</p>
+<p align="center">
+  <b>Dados & Ferramentas</b><br/><br/>
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,vscode,idea" />
 </p>
 
-<p align="center">Obrigado pela visita! Volte sempre para ver as novidades. 😄</p>
-<p align="center">⭐ Obrigado pela visita! Volte sempre para ver as novidades. 😄</p>
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvarakaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarakaki&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dvarakaki&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dvarakaki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dvarakaki&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Cobrinha das contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>"A melhor maneira de prever o futuro é criá-lo." — Alan Kay</i><br/><br/>
+  ⭐ Obrigado pela visita! Volte sempre. 😄
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
