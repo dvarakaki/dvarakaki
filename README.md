@@ -135,6 +135,61 @@
 
 ---
 
+### 📊 [K] Metrics completo (lowlighter)
+
+<p align="center"><img width="95%" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/metrics.svg" /></p>
+
+### 💻 [M] Estatísticas estilo terminal
+
+<p align="center">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=dvarakaki&theme=mac" />
+</p>
+
+### 🃏 [N] GitCard Studio
+
+<p align="center">
+  <img src="https://gitcard-studio.creativecode.com.co/api/stats?username=dvarakaki&theme=dark" />
+  <img src="https://gitcard-studio.creativecode.com.co/api/languages?username=dvarakaki&theme=tokyonight" />
+  <img src="https://gitcard-studio.creativecode.com.co/api/commit-activity?username=dvarakaki&theme=neon" />
+  <img src="https://gitcard-studio.creativecode.com.co/api/rank?username=dvarakaki&theme=glassmorphism" />
+</p>
+
+### 👀 [O] gitglance
+
+<p align="center"><img src="https://gitglance-eight.vercel.app/api/combined?username=dvarakaki&style=vercel&theme=vercel" /></p>
+
+### 📈 [P] ghstats.dev
+
+<p align="center"><img src="https://ghstats.dev/api/card?username=dvarakaki&theme=tokyonight" /></p>
+
+### 🖼️ [Q] Retrato pixelado (sua foto do GitHub)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/portrait-dark.svg" />
+    <img width="300" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/main/portrait-light.svg" />
+  </picture>
+</p>
+
+### ♒ [R] Cartão de signo
+
+<p align="center"><img src="https://github-readme-zodiac.vercel.app/api/card?username=dvarakaki" /></p>
+
+### 📅 [S] Mensagem do dia
+
+<p align="center">
+  <img src="https://badge.ava.kim/badge.svg?pack=dev-humor&style=for-the-badge&color=1f6feb" />
+  <img src="https://badge.ava.kim/badge.svg?pack=tech-facts&style=for-the-badge&color=8957e5" />
+</p>
+
+### 💬 [T] Frase de programação
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></p>
+
+### 😂 [U] Piada de dev
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2358a6ff&aColor=%238957e5&borderColor=%231f6feb" /></p>
+
 ### 🐍 [J] Cobrinha clássica
 
 <p align="center">
