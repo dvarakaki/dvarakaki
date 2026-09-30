@@ -14,12 +14,7 @@
   <img src="https://img.shields.io/github/followers/dvarakaki?label=Seguidores&style=flat-square&color=8957e5" alt="seguidores" />
 </p>
 
----
-
 <img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy-downsized-medium.gif" alt="speed" />
-
----
-### 🐍 [J] Cobrinha clássica
 
 <p align="center">
   <picture>
