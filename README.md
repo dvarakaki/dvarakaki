@@ -9,10 +9,6 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/dvarakaki/dvarakaki/">
-    <img src="https://hits.sh/github.com/dvarakaki/dvarakaki.svg?label=Visitas&color=1f6feb&style=flat-square" alt="visitas" />
-  </a>
-  <img src="https://img.shields.io/github/followers/dvarakaki?label=Seguidores&style=flat-square&color=8957e5" alt="seguidores" />
-</p>
 
 <p align="center">
   <picture>
