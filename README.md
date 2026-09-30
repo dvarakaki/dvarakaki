@@ -22,5 +22,3 @@
 </p>
 
 <img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy-downsized-medium.gif" alt="speed" />
-
----
