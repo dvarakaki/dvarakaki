@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/github/followers/dvarakaki?label=Seguidores&style=flat-square&color=8957e5" alt="seguidores" />
 </p>
 
-<img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy-downsized-medium.gif" alt="speed" />
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvarakaki/dvarakaki/output/github-contribution-grid-snake-dark.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy-downsized-medium.gif" alt="speed" />
 
 ---
