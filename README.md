@@ -8,13 +8,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvarakaki&label=Visitas&color=1f6feb&style=flat-square" alt="visitas" />
+  <a href="https://hits.sh/github.com/dvarakaki/dvarakaki/">
+    <img src="https://hits.sh/github.com/dvarakaki/dvarakaki.svg?label=Visitas&color=1f6feb&style=flat-square" alt="visitas" />
+  </a>
   <img src="https://img.shields.io/github/followers/dvarakaki?label=Seguidores&style=flat-square&color=8957e5" alt="seguidores" />
 </p>
 
 ---
 
-<img align="right" width="340" src="https://giphy.com/gifs/STRAPPEDUS-speed-ishowspeed-i-show-lxxOGaDRk4f7R5TkBd" alt="speed" />
+<img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy.gif" alt="speed" />
 
 ---
 ### 🐍 [J] Cobrinha clássica
@@ -25,3 +27,5 @@
     <img alt="snake" src="https://raw.githubusercontent.com/dvarakaki/dvarakaki/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+---
