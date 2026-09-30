@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy.gif" alt="speed" />
+<img align="right" width="340" src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy-downsized-medium.gif" alt="speed" />
 
 ---
 ### 🐍 [J] Cobrinha clássica
