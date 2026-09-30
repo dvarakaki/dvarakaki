@@ -15,11 +15,15 @@
 </p>
 
 <p align="center">
-  👋 Hey hi, I'm Davi Arakaki! I'm 16 and I work at @PicPay, building things on the back-end side.
+  👋 Hey hi!
+  I'm Davi Arakaki! I'm 16 and I work at @PicPay,
+  building things on the back-end side.
 </p>
 
 <p align="center">
-  If you like my projects, consider buying me a coffee ☕ It really helps. Thanks!<br/>
+  If you like my projects, 
+  consider buying me a coffee ☕! 
+  It really helps. Thanks!<br/>
   <b>Pix (copy &amp; paste):</b>
 </p>
 
